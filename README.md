@@ -10,7 +10,7 @@ You are the user number : ![](https://komarev.com/ghpvc/?username=bhavenjain)
 
 ### Connect with me:
 
-<img align="left" alt="bhavenjain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="bhavenjain | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 
 
 <br />
