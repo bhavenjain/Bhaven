@@ -39,10 +39,13 @@
 </p>
 
 <p align="center" style="display:block;">
-<a href="https://github.com/ps428">
   <img align="center" style="margin-bottom:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavenjain&theme=dark" />
   
   <br>
+  </p>
+
+## Github Stats
+  <p align="center" style="display:block;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavenjain&show_icons=true&theme=dark&count_private=true" alt="Bhaven's github stats"/>
 </a></p>
 
