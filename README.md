@@ -1,6 +1,6 @@
-### Hi there, I'm Bhaven !
+## Hi there, I'm Bhaven !
 
-## I'm a Developer!!
+### I'm a Developer!!
 
 - 🌱 I’m currently learning everything.
 - 🥅 2022 Goals: Contribute more.
@@ -28,7 +28,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<br />
 <br />
 <br />
 
@@ -42,8 +42,10 @@
   <img align="center" style="margin-bottom:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavenjain&theme=dark" />
   
   <br>
+    <br>
   </p>
 
+  
 ## Github Stats
   <p align="center" style="display:block;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavenjain&show_icons=true&theme=dark&count_private=true" alt="Bhaven's github stats"/>
