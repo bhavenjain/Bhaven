@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything.
 - 🥅 2022 Goals: Contribute more.
-- ⚡ Fun fact: I love play guitar.
+- ⚡ I love code and play guitar.
 
 ### Connect with me:
 
@@ -31,5 +31,19 @@
 
 <br />
 <br />
+
+## Public repo summary:
+
+<p align="center" style="text-align:center; display:inline-block;">
+
+</p>
+
+<p align="center" style="display:block;">
+<a href="https://github.com/ps428">
+  <img align="center" style="margin-bottom:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavenjain&theme=dark" />
+  
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavenjain&show_icons=true&theme=dark&count_private=true" alt="Bhaven's github stats"/>
+</a></p>
 
 [linkedin]: www.linkedin.com/in/bhavenjain
