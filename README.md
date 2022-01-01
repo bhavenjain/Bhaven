@@ -2,17 +2,22 @@
 
 ### I'm a Developer!!
 
+
+
 - 🌱 I’m currently learning everything.
 - 🥅 2022 Goals: Contribute more.
 - ⚡ I love code and play guitar.
 
-You are the user number : ![](https://komarev.com/ghpvc/?username=bhavenjain)
+
 
 ### Connect with me:
 
 <img align="left" alt="bhavenjain | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 
 
+<br />
+
+You are the user number : ![](https://komarev.com/ghpvc/?username=bhavenjain)
 <br />
 
 ### Languages and Tools:
