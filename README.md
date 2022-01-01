@@ -6,6 +6,8 @@
 - 🥅 2022 Goals: Contribute more.
 - ⚡ I love code and play guitar.
 
+You are the user number : ![](https://komarev.com/ghpvc/?username=bhavenjain)
+
 ### Connect with me:
 
 <img align="left" alt="bhavenjain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
