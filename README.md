@@ -53,7 +53,7 @@ You are the user number : ![](https://komarev.com/ghpvc/?username=bhavenjain)
   </p>
 
   
-## Github Stats
+## Github Stats:
   <p align="center" style="display:block;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavenjain&show_icons=true&theme=dark&count_private=true" alt="Bhaven's github stats"/>
 </a></p>
