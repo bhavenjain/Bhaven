@@ -5,14 +5,8 @@
 
 
 - 🌱 I’m currently learning everything.
-- 🥅 2022 Goals: Contribute more.
+- 🥅 2023 Goals: Code more.
 - ⚡ I love code and play guitar.
-
-
-
-### Connect with me:
-
-<img align="left" alt="bhavenjain | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 
 
 <br /><br />
