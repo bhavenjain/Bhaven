@@ -9,9 +9,9 @@
 - ⚡ I love code and play guitar.
 
 
-<br /><br />
+<br />
 
-You are the user number : ![](https://komarev.com/ghpvc/?username=bhavenjain)
+You are user number : ![](https://komarev.com/ghpvc/?username=bhavenjain)
 <br />
 
 ### Languages and Tools:
